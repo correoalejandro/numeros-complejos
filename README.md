@@ -61,7 +61,7 @@ python -m unittest discover -s tests -p "test_*.py" -v
 
 - API **funcional**  con anotaciones de tipo y comentarios
 - Tolerancia numérica en pruebas con `assertAlmostEqual` donde conviene.
-- Corrección en `polar_a_cartesiano` si `r < 0` para robustez matemática.
+- Corrección en `polar_a_cartesiano` si `r < 0`.
 - Verifiación de **división por cero** con `ZeroDivisionError`.
 
 ## Licencia
