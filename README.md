@@ -1,4 +1,4 @@
-# Biblioteca de Números Complejos - Taller 1
+# Biblioteca de números complejos - Taller 1
 
 Este proyecto implementa operaciones con números complejos representados como tuplas.
 No se utiliza el tipo de datos complex de Python.
